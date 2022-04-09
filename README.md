@@ -4,4 +4,5 @@ Olá! Bem vindo(a) ao meu livro de receitas:sunglasses:
 
 - Strogonoff de frango
 - Pavê
+- Bolo de cenoura
 
